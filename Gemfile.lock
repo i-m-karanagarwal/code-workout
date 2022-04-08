@@ -1,12 +1,12 @@
 GIT
-  remote: git://github.com/raganwald/andand.git
+  remote: https://github.com/raganwald/andand
   revision: d6c4545b6649c70495c26e2038206c5fdb2d14d6
   specs:
     andand (1.3.3)
 
 GIT
-  remote: git://github.com/seuros/capistrano-puma.git
-  revision: f9801f6762d152c5d9da18ce726c7561cc4f9a8b
+  remote: https://github.com/seuros/capistrano-puma
+  revision: e5d870fcc943abab62670f4a8efd2922e8333adf
   specs:
     capistrano3-puma (5.2.0)
       capistrano (~> 3.7)
@@ -14,7 +14,7 @@ GIT
       puma (>= 4.0, < 6.0)
 
 GIT
-  remote: git://github.com/voormedia/rails-erd.git
+  remote: https://github.com/voormedia/rails-erd
   revision: e41243f6d33303bfc9bdc1cff159bb1986cbee22
   specs:
     rails-erd (1.6.1)
